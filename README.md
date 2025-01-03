@@ -4,4 +4,6 @@ Developed an AI based web application "Home Workout" to detect gymnasium posture
 
 Check out this image: https://www.google.com/imgres?q=posture%20landmarks%20by%20mediapipe&imgurl=https%3A%2F%2Flearnopencv.com%2Fwp-content%2Fuploads%2F2022%2F03%2FMediaPipe-pose-BlazePose-Topology.jpg&imgrefurl=https%3A%2F%2Flearnopencv.com%2Fbuilding-a-body-posture-analysis-system-using-mediapipe%2F&docid=Bu-HeBUIDuebeM&tbnid=jK4w_HlVXm2aaM&vet=12ahUKEwiC-6TY0c6KAxVGzTgGHR7MHUQQM3oECBcQAA..i&w=1600&h=808&hcb=2&ved=2ahUKEwiC-6TY0c6KAxVGzTgGHR7MHUQQM3oECBcQAA
 
-Tech Stack used: Javascript, Python, Machine Learning.
+Tech Stack used: Javascript, Python, Machine Learning, Streamlit
+
+Project is under process, we add many new functions in our website, and we use different models to compare which is the best among them to detect postures and integrated in the website! 
